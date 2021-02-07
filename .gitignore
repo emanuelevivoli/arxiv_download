@@ -1,0 +1,12 @@
+# env folders and files
+.vscode
+
+# here there are the downloaded zips
+data
+
+# here there is config.ini with AWS tocken
+private_config.ini
+
+# heavy files in tools
+tools
+backups
